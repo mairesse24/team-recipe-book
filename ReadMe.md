@@ -13,21 +13,21 @@ Welcome to our **Team Recipe Book**! This project is a collaborative collection 
 - Jump easily between pages using our navigation.  
 - Learn more about the team on the **About page**.
 
-# **🧑‍🍳 Team Recipe Book – Group Info **
+## 🧑‍🍳 Team Recipe Book – Group Info
 
-#**Team Members:**
+## Team Members:
 
-Aasmi Joshi — Recipe: Nepali Momos
+Aasmi Joshi — Recipe: Nepali Momo
 Mairesse  — Recipe: Summer Plan
 Madiha — Recipe: (add yours here)
 Aavash - Recipe: (add yours here)
 
-Project Summary:
+## Project Summary:
 This is our collaborative website created during the From Zero to Team Hero Git & GitHub workshop.
 Each team member created their own branch, added a personal recipe page, and opened a pull request to merge their work.
 We practiced branching, committing, reviewing code, and resolving merge conflicts.
 
-#**Features:**
+## Features:
 
 - Individual recipe pages for each team member
 
@@ -37,7 +37,7 @@ We practiced branching, committing, reviewing code, and resolving merge conflict
 
 - Styled layout with CSS (optional improvement)
 
-#**Reflection Highlights:**
+## Reflection Highlights:
 Working together on GitHub helped us learn how to coordinate as a team, resolve code conflicts, and keep our commits organized.
 
 Happy coding!

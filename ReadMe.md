@@ -3,7 +3,7 @@
   <ul>
     <li><a href="index.html">Home</a></li>
     <li><a href="team-about.html">About Our Team</a></li>
-    <li><a href="mairesse-recipe.html">Mairesse's Summer Plan</a></li>
+    <li><a href="https://github.com/mairesse24/team-recipe-book/blob/add-mairesse-recipe/mairesse-recipe.html">Mairesse's Summer Plan</a></li>
     <!-- Add other team members' recipe links here -->
   </ul>
 </nav>

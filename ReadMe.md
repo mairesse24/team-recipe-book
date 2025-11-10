@@ -6,4 +6,4 @@ Welcome to our **Team Recipe Book**! This project is a collaborative collection 
 - Check out our **navigation** to jump between pages easily.  
 - See the **team about page** to meet everyone behind this project.  
 
-Happy coding and cooking!
+Happy coding

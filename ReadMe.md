@@ -12,11 +12,6 @@ Welcome to our **Team Recipe Book**! This project is a collaborative collection 
   <!-- Add other team members' recipe link -->
 </ul>
 
-## Features
-- Explore each team member's page for their recipe.  
-- Jump easily between pages using our navigation.  
-- Learn more about the team on the **About page**.
-
 ## 🧑‍🍳 Team Recipe Book – Group Info 
 
 ## Team Members:
@@ -37,7 +32,7 @@ We practiced branching, committing, reviewing code, and resolving merge conflict
 
 - Navigation between all pages
 
-- About the Team page
+- About the Team page# **GROUP RECIPE**
 
 - Styled layout with CSS (optional improvement)
 

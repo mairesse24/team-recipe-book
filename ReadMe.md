@@ -4,6 +4,7 @@ Welcome to our **Team Recipe Book**! This project is a collaborative collection 
 
 ## Navigation
 - **Home**: [index.html](index.html)
+- <li><a href="index.html">Home</a></li>
 - **About Our Team**: [team-about.html](team-about.html)
 - **Team Recipes**:  
   <ul>

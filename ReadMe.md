@@ -24,7 +24,7 @@ Welcome to our **Team Recipe Book**! This project is a collaborative collection 
 
 - Aasmi Joshi — Recipe: Nepali Momo
 - Mairesse  — Recipe: Summer Plan
-- Madiha — Recipe: (add yours here)
+- Madiha — Recipe: Chocolate Chip Cookies
 - Aavash - Recipe: (add yours here)
 
 ## Project Summary:
@@ -40,7 +40,7 @@ We practiced branching, committing, reviewing code, and resolving merge conflict
 
 - About-the-Team page
 
-- Styled layout with CSS (optional improvement)
+- Styled layout with CSS 
 
 ## Reflection Highlights:
 Working together on GitHub helped us learn how to coordinate as a team, resolve code conflicts, and keep our commits organized.

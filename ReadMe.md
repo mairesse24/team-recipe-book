@@ -10,7 +10,7 @@ Welcome to our **Team Recipe Book**! This project is a collaborative collection 
   <li><a href="mairesse-recipe.html">Mairesse's Summer Plan</a></li>
   <li><a href="aasmi-recipe.html">Aasmi's Nepali Momo</a></li>
   <li><a href="madiha-recipe.html">Madiha's choclate chip cookies</a></li>
-  <!-- Add other team members' recipe link -->
+  <li><a href="aavash-recipe.html">Aavash's ????</a></li>
 </ul>
 
 ## Features
@@ -40,7 +40,7 @@ We practiced branching, committing, reviewing code, and resolving merge conflict
 
 - About-the-Team page
 
-- Styled layout with CSS (optional improvement)
+- Styled layout with CSS 
 
 ## Reflection Highlights:
 Working together on GitHub helped us learn how to coordinate as a team, resolve code conflicts, and keep our commits organized.

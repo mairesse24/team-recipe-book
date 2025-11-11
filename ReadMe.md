@@ -10,7 +10,7 @@ Welcome to our **Team Recipe Book**! This project is a collaborative collection 
   <li><a href="mairesse-recipe.html">Mairesse's Summer Plan</a></li>
   <li><a href="aasmi-recipe.html">Aasmi's Nepali Momo</a></li>
   <li><a href="madiha-recipe.html">Madiha's choclate chip cookies</a></li>
-  <li><a href="aavash-recipe.html">Aavash's ????</a></li>
+  <li><a href="aavash-recipe.html">Aavash's Pancakes</a></li>
 </ul>
 
 ## Features
@@ -25,7 +25,7 @@ Welcome to our **Team Recipe Book**! This project is a collaborative collection 
 - Aasmi Joshi — Recipe: Nepali Momo
 - Mairesse  — Recipe: Summer Plan
 - Madiha — Recipe: Chocolate Chip Cookies
-- Aavash - Recipe: (add yours here)
+- Aavash - Recipe: Pancakes
 
 ## Project Summary:
 This is our collaborative website created during the From Zero to Team Hero Git & GitHub workshop.

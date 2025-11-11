@@ -17,7 +17,7 @@ Welcome to our **Team Recipe Book**! This project is a collaborative collection 
 
 ## Team Members:
 
-- Aasmi Joshi — Recipe: Nepali Momos
+- Aasmi Joshi — Recipe: Nepali Momo
 - Mairesse  — Recipe: Summer Plan
 - Madiha — Recipe: (add yours here)
 - Aavash - Recipe: (add yours here)

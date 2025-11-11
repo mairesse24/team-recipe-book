@@ -6,7 +6,11 @@ Welcome to our **Team Recipe Book**! This project is a collaborative collection 
 - **Home**: [index.html](index.html)
 - **About Our Team**: [team-about.html](team-about.html)
 - **Team Recipes**:  
-  [Mairesse's Summer Plan](https://github.com/mairesse24/team-recipe-book/blob/add-mairesse-recipe/mairesse-recipe.html)
+  <ul>
+  <li><a href="https://github.com/mairesse24/team-recipe-book/blob/add-mairesse-recipe/mairesse-recipe.html">Mairesse's Summer Plan</a></li>
+  <li><a href="https://github.com/mairesse24/team-recipe-book/blob/add-aasmi-recipe/aasmi-recipe.html">Aasmi's Nepali Momo</a></li>
+  <!-- Add other team members' recipe link -->
+</ul>
 
 ## Features
 - Explore each team member's page for their recipe.  

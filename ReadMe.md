@@ -3,8 +3,8 @@
 Welcome to our **Team Recipe Book**! This project is a collaborative collection of our favorite recipes, summer plans, and more.
 
 ## Navigation
-- **Home**: [index.html](index.html)
-- **About Our Team**: [team-about.html](team-about.html)
+- <a href="index.html">**Home**</a>
+- <a href="team-about.html">**About Our Team**</a>
 - **Team Recipes**:  
   <ul>
   <li><a href="mairesse-recipe.html">Mairesse's Summer Plan</a></li>

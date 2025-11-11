@@ -6,7 +6,7 @@ Welcome to our **Team Recipe Book**! This project is a collaborative collection 
 - **Home**: [index.html](index.html)
 - **About Our Team**: [team-about.html](team-about.html)
 - **Team Recipes**:  
-   <ul>
+  <ul>
   <li><a href="https://github.com/mairesse24/team-recipe-book/blob/add-mairesse-recipe/mairesse-recipe.html">Mairesse's Summer Plan</a></li>
   <li><a href="https://github.com/mairesse24/team-recipe-book/blob/add-aasmi-recipe/aasmi-recipe.html">Aasmi's Nepali Momo</a></li>
   <!-- Add other team members' recipe link -->
@@ -17,7 +17,7 @@ Welcome to our **Team Recipe Book**! This project is a collaborative collection 
 - Jump easily between pages using our navigation.  
 - Learn more about the team on the **About page**.
 
-## 🧑‍🍳 Team Recipe Book – Group Info 
+## 🧑‍🍳 Team Recipe Book – Group Info
 
 ## Team Members:
 
@@ -37,7 +37,7 @@ We practiced branching, committing, reviewing code, and resolving merge conflict
 
 - Navigation between all pages
 
-- About the Team page
+- About-the-Team page
 
 - Styled layout with CSS (optional improvement)
 

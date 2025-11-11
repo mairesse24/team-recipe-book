@@ -23,7 +23,7 @@ Welcome to our **Team Recipe Book**! This project is a collaborative collection 
 
 - Aasmi Joshi — Recipe: Nepali Momo
 - Mairesse  — Recipe: Summer Plan
-- Madiha — Recipe: (add yours here)
+- Madiha — Recipe: (Chocolate Chip Cookies)
 - Aavash - Recipe: (add yours here)
 
 ## Project Summary:

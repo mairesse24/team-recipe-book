@@ -9,6 +9,7 @@ Welcome to our **Team Recipe Book**! This project is a collaborative collection 
   <ul>
   <li><a href="mairesse-recipe.html">Mairesse's Summer Plan</a></li>
   <li><a href="aasmi-recipe.html">Aasmi's Nepali Momo</a></li>
+  <li><a href="Madiha-recipe.html">Madiha's choclate chip cookies</a></li>
   <!-- Add other team members' recipe link -->
 </ul>
 

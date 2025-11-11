@@ -1,36 +1,74 @@
-
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
   <title>About Our Team</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      background-color: #e3f2fd; 
-      margin: 0;
-      padding: 0;
+      font-family: "Segoe UI", Arial, sans-serif;
+    
+      color: #333;
     }
 
     header {
-      background-color: #1565c0; 
+      background-color: rgba(255, 182, 185, 0.9); /* soft pink overlay */
       color: white;
       text-align: center;
-      padding: 15px 0;
+      padding: 30px 0;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+      backdrop-filter: blur(5px);
     }
 
-    h1, h2 {
+    header h1 {
+      margin: 0;
+      font-size: 2.4em;
+      letter-spacing: 1px;
+      text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+    }
+
+    nav {
       text-align: center;
-      color: #0d47a1; 
+      background-color: rgba(255, 224, 172, 0.9);
+      padding: 12px 0;
+      font-weight: bold;
+      backdrop-filter: blur(5px);
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #8b4513;
+      margin: 0 15px;
+      transition: color 0.3s ease;
+    }
+
+    nav a:hover {
+      color: #c06014;
+      text-decoration: underline;
     }
 
     .container {
-      width: 80%;
-      margin: 20px auto;
-      background: #ffffff;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      width: 85%;
+      margin: 40px auto;
+      background: rgba(255, 253, 248, 0.9); /* transparent white background for readability */
+      padding: 25px;
+      border-radius: 15px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+      backdrop-filter: blur(4px);
+    }
+
+    h2 {
+      text-align: center;
+      color: #e26d5c;
+      margin-bottom: 10px;
+      text-shadow: 1px 1px 2px rgba(255,255,255,0.6);
+    }
+
+    p {
+      text-align: center;
+      line-height: 1.6;
+      margin-bottom: 25px;
+      color: #4a4a4a;
+      font-size: 1.05em;
     }
 
     ul {
@@ -38,30 +76,47 @@
       padding: 0;
     }
 
-    li {
-      margin: 6px 0;
-    }
-
-    nav {
+    ul li {
+      background-color: rgba(255, 238, 221, 0.95);
+      margin: 12px auto;
+      padding: 15px;
+      border-radius: 10px;
+      width: 60%;
       text-align: center;
-      margin-top: 10px;
+      font-size: 1.05em;
+      box-shadow: 0 3px 6px rgba(0,0,0,0.05);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
 
-    nav a {
-      margin: 0 10px;
+    ul li:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+    }
+
+    ul li strong {
+      color: #c54b30;
+    }
+
+    a {
+      color: #c54b30;
       text-decoration: none;
-      color: #1565c0;
       font-weight: bold;
     }
 
-    nav a:hover {
-      color: #1976d2;
+    a:hover {
       text-decoration: underline;
+      color: #d84c4c;
     }
 
-    p {
-      color: #333;
-      line-height: 1.6;
+    footer {
+      text-align: center;
+      background-color: rgba(255, 182, 185, 0.9);
+      color: white;
+      padding: 15px 0;
+      margin-top: 40px;
+      font-size: 0.95em;
+      backdrop-filter: blur(5px);
+      box-shadow: 0 -2px 8px rgba(0,0,0,0.1);
     }
   </style>
 </head>
@@ -76,52 +131,39 @@
     <a href="about.html">About</a>
   </nav>
 
-    <h2>Meet the Team:</h2>
-    <ul>
-      <li>Aasmi Joshi — Expert in Nepali cuisine</li>
-      <li>Mairesse Nkundizanye — Explorer of life, ready for summer adventures ✨</li>
-      <li>Madiha Syeda — Baker</li>
-      <li>Aavash Adhikari — Home food maker</li>
-    </ul>
-
-    <p>Together, we're learning how to code collaboratively, manage projects, and make a fun, interactive recipe book!</p>
-  </div>
-</body>
-</html>
   <div class="container">
-    <p>We are a group of students collaborating on this Team Recipe Book project! Our goal is to share our favorite recipes and learn how to work together using Git and GitHub.</p>
+    <p>
+      We are a group of students collaborating on this <strong>Team Recipe Book</strong> project! 
+      Our goal is to share our favorite recipes and learn how to work together using Git and GitHub.
+    </p>
 
-<body>
-    <h1>About Our Team</h1>
-    <p>We are a group of students collaborating on this Team Recipe Book project! Our goal is to showcase our favorite recipes and learn how to work together using Git and GitHub.</p>
-
-    <h2>Meet the Team:</h2>
+    <h2>Meet the Team</h2>
     <ul>
-        <br> Aasmi Joshi — Expert in Nepali cuisine
-        <br> Mairesse Nkundizanye — Explorer of life, ready for summer adventures ✨
-        <br> Madiha Syeda — Baker
-        <br> Aavash Adhikari - Home food maker
+      <li><strong>Aasmi Joshi</strong> — Expert in Nepali cuisine 🥟 </li>
+      <li><strong>Mairesse Nkundizanye</strong> — Explorer of life, ready for summer adventures ✨</li>
+      <li><strong>Madiha Syeda</strong> — Passionate Baker 🍪</li>
+      <li><strong>Aavash Adhikari</strong> — Home food maker 🥞</li>
     </ul>
 
-    <p>Together, we’re learning how to code collaboratively, manage projects with Git, and make a fun, interactive recipe book for everyone to enjoy!</p>
+    <p>
+      Together, we’re learning how to code collaboratively, manage projects, and create a fun, 
+      interactive recipe book that everyone can enjoy!
+    </p>
 
-    <nav>
-        <a href="index.html">Home</a> |
-        <a href="about.html">About Our Team</a> |
-    </nav>
-
-    <h2 id="recipes">Our Recipes:</h2>
+    <h2>Our Recipes</h2>
     <ul>
-        <li><a href="mairesse-recipe.html">Mairesse's Summer Plan</a></li>
-        <li><a href="aasmi-recipe.html">Aasmi's Nepali Momo</a></li>
-        <li><a href="madiha-recipe.html">Madiha's Chocolate Chip Cookies</a></li>
-        <li><a href="aavash-recipe.html">Aavash's Pancake</a></li>
+      <li><a href="mairesse-recipe.html">🥗 Mairesse's Summer Plan</a></li>
+      <li><a href="aasmi-recipe.html">🥟 Aasmi's Nepali Momo</a></li>
+      <li><a href="madiha-recipe.html">🍪 Madiha's Chocolate Chip Cookies</a></li>
+      <li><a href="aavash-recipe.html">🥞 Aavash's Pancake</a></li>
     </ul>
+  </div>
 
+  <footer>
+    <p>©️ 2025 Team Recipe Book | Made with ❤️ and teamwork</p>
+  </footer>
 </body>
 </html>
-
-
 
 
 

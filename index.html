@@ -1,66 +1,142 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Team Recipe Book</title>
+  
+  <title>Team Recipe Book 🍴</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      background-color: #f5ebe0;
-      margin: 0;
-      padding: 0;
+      font-family: "Segoe UI", Arial, sans-serif;
+      color: #333;
+      background-color: #fffaf5;
     }
+
     header {
-      background-color: #eed394;
-      color: rgb(199, 71, 71);
+      background-color: rgba(255, 182, 185, 0.9);
+      color: white;
       text-align: center;
-      padding: 15px 0;
+      padding: 35px 0;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
     }
-    h1, h2 {
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+      text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+    }
+
+    nav {
       text-align: center;
+      background-color: rgba(255, 224, 172, 0.9);
+      padding: 12px 0;
+      font-weight: bold;
     }
+
+    nav a {
+      text-decoration: none;
+      color: #8b4513;
+      margin: 0 15px;
+      transition: color 0.3s ease;
+    }
+
+    nav a:hover {
+      color: #c06014;
+      text-decoration: underline;
+    }
+
+    .container {
+      text-align: center;
+      margin: 50px auto;
+      width: 80%;
+      background: rgba(255, 253, 248, 0.9);
+      padding: 40px;
+      border-radius: 15px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    }
+
+    h2 {
+      color: #e26d5c;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 1.1em;
+      line-height: 1.6;
+      color: #4a4a4a;
+      margin-bottom: 30px;
+    }
+
     ul {
       list-style-type: none;
       padding: 0;
     }
-    li {
-      margin: 5px 0;
-    }
-    a {
-      text-decoration: underline;
-      color: #023047;
-    }
-    .container {
+
+    ul li {
+      background-color: rgba(255, 238, 221, 0.95);
+      margin: 10px auto;
+      padding: 15px;
+      border-radius: 10px;
       width: 60%;
-      margin: 20px auto;
-      background: #f4f6f7;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      box-shadow: 0 3px 6px rgba(0,0,0,0.05);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    ul li:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+    }
+
+    a {
+      color: #c54b30;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: #d84c4c;
+    }
+
+    footer {
+      text-align: center;
+      background-color: rgba(255, 182, 185, 0.9);
+      color: white;
+      padding: 15px 0;
+      margin-top: 40px;
+      font-size: 0.95em;
     }
   </style>
 </head>
 
 <body>
   <header>
-    <h1>Team Recipe Book</h1>
+    <h1>Welcome to Our Team Recipe Book 🍴</h1>
   </header>
 
-  <div class="container">
-    <h2>Team Members:</h2>
-    <ul>
-      <li>Mairesse Nkundizanye</li>
-      <li>Aasmi Joshi</li>
-      <li>Madiha Syeda</li>
-      <li>Aavash Adhikari</li>
-    </ul>
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="https://github.com/mairesse24/team-recipe-book/blob/main/about.html" target="_blank">About</a>
 
-    <h2>Our Recipes:</h2>
+   
+
+  </nav>
+
+  <div class="container">
+    <p>
+      Welcome! This website is a fun collaboration where each of us shared our favorite recipe while learning how to use Git and GitHub as a team. 
+      Explore our dishes below and get inspired by food, friendship, and teamwork! ✨
+    </p>
+
+    <h2>Explore Our Recipes</h2>
     <ul>
-      <li><a href="mairesse-recipe.html">Mairesse's Summer Plan</a></li>
-      <li><a href="aasmi-recipe.html">Aasmi's Nepali Momo</a></li>
-      <li><a href="madiha-recipe.html">Madiha's Chocolate Chip Cookies</a></li>
-      <li><a href="aavash-recipe.html">Aavash's Pancake</a></li>
+      <li><a href="https://github.com/mairesse24/team-recipe-book/blob/main/aasmi-recipe.html" target="_blank">🥟 Aasmi's Nepali Momo</a></li>
+      <li><a href="https://github.com/mairesse24/team-recipe-book/blob/main/mairesse-recipe.html" target="_blank">🥗 Mairesse's Summer Plan</a></li>
+      <li><a href="https://github.com/mairesse24/team-recipe-book/blob/main/madiha-recipe.html" target="_blank">🍪 Madiha's Chocolate Chip Cookies</a></li>
+      <li><a href="https://github.com/mairesse24/team-recipe-book/blob/main/aavash-recipe.html" target="_blank">🥞 Aavash's Pancakes</a></li>
     </ul>
   </div>
+
+  <footer>
+    <p>©️ 2025 Team Recipe Book | Made with ❤️ and teamwork</p>
+  </footer>
 </body>
 </html>

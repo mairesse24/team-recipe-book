@@ -1,6 +1,6 @@
 # 🚗 Driver Buddy – Student Carpooling App
 
-## 📌 Overview
+##  Overview
 
 Driver Buddy is a mobile application designed to help **college and university students** share rides, save money, and travel safely with verified peers. The app uses smart-matching, scheduling, and in-app communication to make student carpooling simple and reliable.
 

@@ -1,46 +1,35 @@
-# **GROUP RECIPE**
+# Team Recipe Book 🍴
 
-Welcome to our **Team Recipe Book**! This project is a collaborative collection of our favorite recipes, summer plans, and more.
+A collaborative recipe book created by our team to share favorite recipes and learn Git/GitHub!
 
-## Navigation
-- <a href="index.html">**Home**</a>
-- <a href="about.html">**About Our Team**</a>
-- **Team Recipes**:  
-  <ul>
-  <li><a href="mairesse-recipe.html">Mairesse's Summer Plan</a></li>
-  <li><a href="aasmi-recipe.html">Aasmi's Nepali Momo</a></li>
-  <li><a href="madiha-recipe.html">Madiha's choclate chip cookies</a></li>
-  <li><a href="aavash-recipe.html">Aavash's Pancakes</a></li>
-</ul>
+## Team Members
+- **Mairesse Nkundizanye** - Summer Travel Plans
+- **Aasmi Joshi** - Nepali Momo Recipe
+- **Madiha Syeda** - Chocolate Chip Cookies
+- **Aavash Adhikari** - Fluffy Pancakes
 
-## Features
-- Explore each team member's page for their recipe.  
-- Jump easily between pages using our navigation.  
-- Learn more about the team on the **About page**.
+## Recipes Included
+- 🥗 Mairesse's Summer Plan
+- 🥟 Aasmi's Nepali Momo
+- 🍪 Madiha's Chocolate Chip Cookies
+- 🥞 Aavash's Fluffy Pancakes
 
-## 🧑‍🍳 Team Recipe Book – Group Info
+## How to View
+1. Clone this repository
+2. Open `index.html` in your web browser
+3. Navigate through our recipes and about page
 
-## Team Members:
+## Technologies Used
+- HTML5
+- CSS3 (Embedded styling)
+- Git & GitHub for collaboration
 
-- Aasmi Joshi — Recipe: Nepali Momo
-- Mairesse  — Recipe: Summer Plan
-- Madiha — Recipe: Chocolate Chip Cookies
-- Aavash - Recipe: Pancakes
-
-## Project Summary:
-This is our collaborative website created during the From Zero to Team Hero Git & GitHub workshop.
-Each team member created their own branch, added a personal recipe page, and opened a pull request to merge their work.
-We practiced branching, committing, reviewing code, and resolving merge conflicts.
-
-## Features:
-
-- Individual recipe pages for each team member
-
-- Navigation between all pages
-
-- About-the-Team page
-
-- Styled layout with CSS 
+## Project Purpose
+This project was created as part of CSCE 1015 at UNT to practice:
+- Team collaboration with Git
+- HTML/CSS web development
+- Version control and branching
+- Creating a shared online resource 
 
 ## Reflection Highlights:
 Working together on GitHub helped us learn how to coordinate as a team, resolve code conflicts, and keep our commits organized.
